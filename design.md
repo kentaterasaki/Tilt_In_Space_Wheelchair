@@ -1,6 +1,3 @@
----
-title: Design Rationale
----
 
 <link rel="stylesheet" href="assets/style.css">
 

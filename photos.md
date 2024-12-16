@@ -1,6 +1,3 @@
----
-title: Photos
----
 
 <link rel="stylesheet" href="assets/style.css">
 
