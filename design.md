@@ -15,7 +15,7 @@ The detailed design rationale, including design decisions, calculations, evidenc
 
 To view the full white paper outlining the design features, rationale, and evidence:
 
-**[🔗 Click here to access the Tilt-In-Space Wheelchair Design Rationale (Google Doc)](https://docs.google.com/document/d/YOUR_DOC_ID_HERE)**  
+**[🔗 Click here to access the Tilt-In-Space Wheelchair Design Rationale (Google Doc)](https://docs.google.com/document/d/1TS_quRtzBsa6iBTKbUMOw3JwEazzCW9Is7TqMeRp_rw/edit?usp=sharing)**  
 
 # CAD 
 
