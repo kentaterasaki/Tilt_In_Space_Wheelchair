@@ -1,4 +1,10 @@
-# Project Architecture
+---
+title: Subsystems
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
+# Project Subsystems
 
 The Tilt-In-Space Wheelchair is composed of several main subsystems, each serving a specific purpose:
 

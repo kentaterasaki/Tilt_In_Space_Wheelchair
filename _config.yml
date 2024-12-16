@@ -5,7 +5,8 @@ description: A clean, professional project showcase for Kyaro Assistive Technolo
 
 header_pages:
   - index.md
+  - photos.md
   - requirements.md
   - architecture.md
-  - photos.md
+  - design.md
   - conclusion.md

@@ -1,3 +1,9 @@
+---
+title: Photos
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Project Photos
 
 Here are some photos showcasing the design, fabrication, and testing stages of the Tilt-In-Space Wheelchair project.
