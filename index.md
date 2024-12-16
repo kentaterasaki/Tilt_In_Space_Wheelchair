@@ -1,3 +1,6 @@
+---
+title: Home
+---
 
 <link rel="stylesheet" href="assets/style.css">
 
