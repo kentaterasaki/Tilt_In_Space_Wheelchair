@@ -1,9 +1,8 @@
-theme: minima
+theme: minima  # Minima provides clean layout customization.
 
 title: Tilt-In-Space Wheelchair
-description: A project to design and fabricate a tilt-in-space wheelchair for Kyaro Assistive Technologies.
+description: A clean, professional project showcase for Kyaro Assistive Technologies.
 
-# Add navigation links (tabs)
 header_pages:
   - index.md
   - requirements.md

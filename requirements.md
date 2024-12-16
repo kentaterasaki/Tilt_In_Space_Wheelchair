@@ -1,3 +1,9 @@
+---
+title: Requirements and Specifications
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Requirements and Specifications
 
 ## Functional Requirements

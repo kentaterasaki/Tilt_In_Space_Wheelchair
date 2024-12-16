@@ -1,22 +1,25 @@
-# Tilt-In-Space Wheelchair for Kyaro Assistive Technologies
+---
+layout: default
+title: Tilt-In-Space Wheelchair
+---
 
-This project aims to design and fabricate a **Tilt-In-Space Wheelchair** for people with disabilities in Tanzania, in collaboration with [Kyaro Assistive Technologies](https://kyaro.org/).
+<link rel="stylesheet" href="assets/style.css">
 
-The wheelchair provides an affordable, durable, and customizable mobility solution to meet the specific needs of users in low-resource environments.
+<!-- Header -->
+# Tilt-In-Space Wheelchair Project
 
-## Project Overview
-- **Project Name**: Tilt-In-Space Wheelchair
-- **Purpose**: To improve accessibility and mobility for individuals with disabilities.
-- **Location**: Tanzania
-- **Team**: Alton Coolidge, Charith Fernando, Kenta Terasaki, Mateo Brancoli, and Matt Farmar
-
-## Explore the Project
-- [Requirements & Specifications](requirements.md)
-- [Project Architecture](architecture.md)
-- [Design Features & Rationale](design.md)
-- [Future Work & Conclusion](conclusion.md)
+Welcome to the official project page for the **Tilt-In-Space Wheelchair** for Kyaro Assistive Technologies. This project aims to provide innovative and sustainable mobility solutions for people with disabilities in Tanzania.
 
 ---
 
-![Wheelchair Prototype](assets/prototype.jpg)  
-*Figure: Prototype of the Tilt-In-Space Wheelchair*
+<!-- Sections with Images and Text Overlays -->
+<div class="image-card">
+    <img src="assets/wheelchair.jpg" alt="Tilt-In-Space Wheelchair">
+    <div class="overlay-text">What is the Tilt-In-Space Wheelchair?</div>
+</div>
+
+## Explore the Project
+- [Requirements](requirements.md)
+- [Architecture](architecture.md)
+- [Photos and Videos](photos.md)
+- [Conclusion](conclusion.md)
