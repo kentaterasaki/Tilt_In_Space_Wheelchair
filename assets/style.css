@@ -1,9 +1,3 @@
-/* Hide the auto-generated title */
-h1:first-of-type {
-    display: none;
-}
-
-
 /* Custom Full-Width Navigation */
 .site-header {
     background-color: #f8f9fa; /* Light gray background */
