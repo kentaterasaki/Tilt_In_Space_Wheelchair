@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+theme: minima
+
+title: Tilt-In-Space Wheelchair
+description: A project to design and fabricate a tilt-in-space wheelchair for Kyaro Assistive Technologies.
+
+# Add navigation links (tabs)
+header_pages:
+  - index.md
+  - requirements.md
+  - architecture.md
+  - photos.md
+  - conclusion.md
