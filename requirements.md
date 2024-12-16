@@ -5,7 +5,6 @@ title: Requirements
 <link rel="stylesheet" href="assets/style.css">
 
 # Requirements and Specifications
-# Requirements and Specifications
 
 ## Functional Requirements
 1. Rotate seat between 0 and 45° (continuously or at increments of ≤15°).

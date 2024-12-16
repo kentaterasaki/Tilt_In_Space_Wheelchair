@@ -4,7 +4,7 @@ title: Design Rationale
 
 <link rel="stylesheet" href="assets/style.css">
 
-# Design Features and Rationale
+<h1 class="manual-header">Design Features and Rationale</h1>
 
 
 The detailed design rationale, including design decisions, calculations, evidence, and supporting documentation, has been consolidated into a comprehensive **White Paper**. This document provides an in-depth explanation of the Tilt-In-Space Wheelchair's design features, ensuring clarity and transparency in the decision-making process.
