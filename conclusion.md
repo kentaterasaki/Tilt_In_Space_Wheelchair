@@ -1,3 +1,9 @@
+---
+title: Future Work
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Future Work
 
 ## Project Summary
