@@ -4,7 +4,9 @@ title: Subsystems
 
 <link rel="stylesheet" href="assets/style.css">
 
-# Project Subsystems
+
+<h1 class="manual-header">Project Subsystems</h1>
+
 
 The Tilt-In-Space Wheelchair is composed of the following subsystems:
 

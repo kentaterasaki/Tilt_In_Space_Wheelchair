@@ -5,7 +5,7 @@ title: Home
 <link rel="stylesheet" href="assets/style.css">
 
 <!-- Header -->
-# Tilt-In-Space Wheelchair Project
+<h1 class="manual-header">Tilt-In-Space Wheelchair Project</h1>
 **By: Alton Coolidge, Charith Fernando, Kenta Terasaki Mateo Brancoli, and Matt Farmar** 
 
 <div style="text-align: center; margin: 20px 0;">

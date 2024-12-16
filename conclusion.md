@@ -5,7 +5,8 @@ title: Future Work
 <link rel="stylesheet" href="assets/style.css">
 
 
-# Project Summary
+<h1 class="manual-header">Project Summary</h1>
+
 The Tilt-In-Space Wheelchair successfully addresses the need for affordable, durable, and customizable mobility solutions for people with disabilities in Tanzania. The project highlights:
 - **Innovative design** for tilt functionality.
 - **Use of local materials** to ensure affordability with a total cost of __.
