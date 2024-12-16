@@ -17,6 +17,25 @@ h1:first-of-type:not(.manual-header) {
     display: none;
 }
 
+/* Custom header matches default h1 size */
+h1.manual-header {
+    font-size: 2.5rem; /* Same as h1 */
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #333; /* Ensure consistency */
+}
+
+/* Prevent menu items from wrapping */
+.site-header nav a {
+    white-space: nowrap; /* Keep text on one line */
+}
+
+/* Add extra spacing between menu items */
+.site-header nav {
+    gap: 20px; /* Adds space between menu items */
+}
+
 
 /* Navigation Bar */
 .site-header {
