@@ -12,7 +12,8 @@ Welcome to the official project page for the **Tilt-In-Space Wheelchair** for Ky
 ---
 
 ## Explore the Project
-- [Requirements](requirements.md)
-- [Architecture](architecture.md)
 - [Photos and Videos](photos.md)
-- [Conclusion](conclusion.md)
+- [Requirements](requirements.md)
+- [Subsystems](architecture.md)
+- [Desgin Rationale](design.md)
+- [Future Work](conclusion.md)
