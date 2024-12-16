@@ -8,7 +8,11 @@ title: Home
 # Tilt-In-Space Wheelchair Project
 **By: Alton Coolidge, Charith Fernando, Kenta Terasaki Mateo Brancoli, and Matt Farmar** 
 
-Welcome to the official project page for the **Tilt-In-Space Wheelchair** for Kyaro Assistive Technologies. This project aims to provide innovative and sustainable mobility solutions for people with disabilities in Tanzania.
+<div style="text-align: center; margin: 20px 0;">
+    <img src="assets/wheelchair.gif" alt="Wheelchair Demonstration" style="width: 80%; height: auto;">
+</div>
+
+Welcome to the project page for the **Tilt-In-Space Wheelchair** for Kyaro Assistive Technologies. This project aims to provide innovative and accessable mobility solutions for people with disabilities in Tanzania.
 
 ---
 
@@ -16,5 +20,5 @@ Welcome to the official project page for the **Tilt-In-Space Wheelchair** for Ky
 - [Photos and Videos](photos.md)
 - [Requirements](requirements.md)
 - [Subsystems](architecture.md)
-- [Desgin Rationale](design.md)
+- [Design Rationale](design.md)
 - [Future Work](conclusion.md)

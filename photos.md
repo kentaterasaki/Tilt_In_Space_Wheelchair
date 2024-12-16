@@ -9,22 +9,21 @@ title: Photos
 Here are some photos showcasing the design, fabrication, and testing stages of the Tilt-In-Space Wheelchair project.
 
 ---
+## Initial Prototype
+![Wheelchair Prototype](assets/prototype.jpg)  
+*Figure 1: Tilt-in-space wheelchair initial prototype.*
 
 ## Fabrication Process
 ![Fabrication Stage 1](assets/fabrication1.jpg)  
-*Figure 1: Cutting aluminum tubing.*
+*Figure 2:*
 
 ![Fabrication Stage 2](assets/fabrication2.jpg)  
-*Figure 2: Welding the frame.*
+*Figure 3: Welding the frame.*
 
----
-
-## Final Prototype
+## Final Product
 ![Wheelchair Prototype](assets/prototype.jpg)  
-*Figure 3: Final tilt-in-space wheelchair prototype.*
-
----
+*Figure 4: *
 
 ## User Testing
 ![User Testing](assets/user_testing.jpg)  
-*Figure 4: Testing the chair in real-world conditions.*
+*Figure 5: Testing the chair in real-world conditions.*

@@ -6,29 +6,19 @@ title: Subsystems
 
 # Project Subsystems
 
-The Tilt-In-Space Wheelchair is composed of several main subsystems, each serving a specific purpose:
+The Tilt-In-Space Wheelchair is composed of the following subsystems:
 
 ## 1. Frame Structure
-- Made from **aluminum tubing** for a balance of strength and weight.
-- Designed to be robust and modular for adjustments.
+- Lightweight and durable base to support the seat and tilt mechanism.  
 
-## 2. Tilt Mechanism
-- **Manual lever system** allows users or caregivers to tilt the seat to the desired angle.
-- Simple design minimizes moving parts for durability.
+## 2. Tilt Mechanism  
+- Allows tilting from 0° to 45°.  
+- **Sliders**: Analyze slider materials for smooth motion and durability.  
+- **Locking Mechanism**: Pin mechanism to lock sliders in place.  
+- **Frame Integration**: Welded frame with connections to seat and wheels. 
+- **Linkage**: Material and size of linkages for stability.  
+- **Joints**: Analyze axial and radial loads to select the most affordable but viable joint option.  
 
-## 3. Seating System
-- Customizable and ergonomic seat design for comfort and pressure relief.
-- Incorporates **cushioning materials** to minimize sores.
-
-## 4. Wheel Assembly
-- **Front wheels**: Swivel casters for maneuverability.
-- **Rear wheels**: Large-diameter wheels for rough terrain.
-
-## 5. Support and Safety Features
-- Includes safety brakes and locking mechanisms for stability.
-- Anti-tip bars prevent the chair from tipping over during tilt.
-
----
-
-![Architecture Diagram](assets/architecture.png)  
-*Figure: Subsystems of the Tilt-In-Space Wheelchair*
+## 3. Seating and Support Attachments  
+- Compatible with cushions, lateral supports, and footrests.  
+- Enhances comfort without compromising stability.  
