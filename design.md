@@ -17,6 +17,9 @@ To view the full white paper outlining the design features, rationale, and evide
 
 **[🔗 Click here to access the Tilt-In-Space Wheelchair Design Rationale (Google Doc)](https://docs.google.com/document/d/1TS_quRtzBsa6iBTKbUMOw3JwEazzCW9Is7TqMeRp_rw/edit?usp=sharing)**  
 
-# CAD 
+# CAD of Tilt In Space Wheelchair
+<div style="text-align: center; margin: 20px 0;">
+    <img src="wheelchair.gif" alt="Wheelchair Demonstration" style="width: 80%; height: auto;">
+</div>
 
-
+**[🔗 Click here to access the Tilt-In-Space Wheelchair CAD (Solidworks)](https://docs.google.com/document/d/1TS_quRtzBsa6iBTKbUMOw3JwEazzCW9Is7TqMeRp_rw/edit?usp=sharing)** 

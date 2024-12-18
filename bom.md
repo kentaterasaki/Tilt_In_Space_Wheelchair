@@ -8,3 +8,5 @@ title: Build of Materials
 
 ![Wheelchair Prototype](bom.png)  
 *Figure 1: Build of Materials for the wheel chair*
+
+The total cost of the wheelchair came out to $47.55 sourcing material in Tanzania. 

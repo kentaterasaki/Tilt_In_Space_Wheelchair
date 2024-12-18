@@ -21,5 +21,3 @@ title: Requirements
 4. Be compatible with Kyaro’s existing wheels, brakes, cushions, headrests, lateral supports, and knee separators.
 
 
----
-
