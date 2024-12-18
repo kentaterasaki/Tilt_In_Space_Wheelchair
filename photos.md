@@ -12,20 +12,15 @@ Here are some photos showcasing the design, fabrication, and testing stages of t
 
 ---
 ## Manufacturing
-![](photos/weld.HEIC)  
+![](photos/weld.jpg)  
 
+![](photos/half_done.jpg) 
 
-## Fabrication Process
-![Fabrication Stage 1](assets/fabrication1.jpg)  
-*Figure 2:*
+## Final Product
+![Fabrication Stage 1](photos/minu.jpg)  
+
 
 ![Fabrication Stage 2](assets/fabrication2.jpg)  
 *Figure 3: Welding the frame.*
 
-## Final Product
-![Wheelchair Prototype](assets/prototype.jpg)  
-*Figure 4: *
 
-## User Testing
-![User Testing](assets/user_testing.jpg)  
-*Figure 5: Testing the chair in real-world conditions.*
