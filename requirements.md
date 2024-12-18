@@ -19,7 +19,7 @@ title: Requirements
 2. Use only materials that are reliably available in Arusha, Tanzania.
 3. Use only manufacturing methods that are reliably available to Kyaro’s shop staff or Kyaro’s current suppliers.
 4. Be compatible with Kyaro’s existing wheels, brakes, cushions, headrests, lateral supports, and knee separators.
+
+
 ---
 
-![Specification Diagram](assets/specifications.png)  
-*Figure: Design Specifications of the Wheelchair*
