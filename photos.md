@@ -13,6 +13,7 @@ Here are some photos showcasing the design, fabrication, and testing stages of t
 ---
 ## Manufacturing
 ![](photos/weld.jpg)  
+<img src="photos/weld.jpg" alt="Wheelchair Demonstration" style="width: 80%; height: auto;">
 
 ![](photos/half_done.jpg) 
 
