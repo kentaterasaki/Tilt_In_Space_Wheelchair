@@ -9,4 +9,5 @@ header_pages:
   - requirements.md
   - architecture.md
   - design.md
+  - bom.md
   - conclusion.md
