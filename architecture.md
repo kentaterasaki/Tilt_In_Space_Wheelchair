@@ -19,7 +19,7 @@ The Tilt-In-Space Wheelchair is composed of the following subsystems:
 - **Locking Mechanism**: Pin mechanism to lock sliders in place.  
 - **Frame Integration**: Welded frame with connections to seat and wheels. 
 - **Linkage**: Material and size of linkages for stability.  
-- **Joints**: Analyze axial and radial loads to select the most affordable but viable joint option.  
+- **Joints**: Analyze axial and radial loads to select the most affordable but viable joint option.
 
 ## 3. Seating and Support Attachments  
 - Compatible with cushions, lateral supports, and footrests.  
