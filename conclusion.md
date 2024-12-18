@@ -14,7 +14,7 @@ The Tilt-In-Space Wheelchair successfully addresses the need for affordable, dur
 
 ---
 
-# Future Work
+<h1 class="manual-header">Future Work</h1>
 To further enhance the project, the following steps are recommended:
 1. **Move the seat pivot forward** to shift the center of gravity towards the front of the car, ensuring stability and preventing the wheelchair from tilting backward when reclined to a 45° angle with a user seated.
 2. **Implementing a spring-loaded design** to enhance the locking mechanism, currently a pin-based system. This improvement would simplify seat angle adjustments, eliminating the need to precisely align the pin to the correct angle. The current process is cumbersome and prone to challenges due to tight pin tolerances. A spring-loaded mechanism would significantly streamline adjustments and greatly improve the overall functionality of the locking and sliding system.
@@ -23,7 +23,7 @@ To further enhance the project, the following steps are recommended:
 
 ---
 
-# Acknowledgments
+<h1 class="manual-header">Acknowledgements</h1>
 Special thanks to **Kyaro Assistive Technologies** for their support and collaboration.
 
 ---

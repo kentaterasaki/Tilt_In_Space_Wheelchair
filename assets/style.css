@@ -19,7 +19,7 @@ h1:first-of-type:not(.manual-header) {
 
 /* Custom header matches default h1 size */
 h1.manual-header {
-    font-size: 2.5rem; /* Same as h1 */
+    font-size: 2rem; /* Same as h1 */
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 15px;
