@@ -21,4 +21,5 @@ Welcome to the project page for the **Tilt-In-Space Wheelchair** for Kyaro Assis
 - [Requirements](requirements.md)
 - [Subsystems](architecture.md)
 - [Design Rationale](design.md)
+- [Build of Materials](bom.md)
 - [Future Work](conclusion.md)
