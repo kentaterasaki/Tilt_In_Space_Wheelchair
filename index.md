@@ -32,5 +32,5 @@ Current designs cost over $2000 and use complicated systems such as pneumatics. 
 - [Requirements](requirements.md)
 - [Subsystems](architecture.md)
 - [Design Rationale](design.md)
-- [Build of Materials](bom.md)
+- [Bill of Materials](bom.md)
 - [Future Work](conclusion.md)
